@@ -1,1 +1,1 @@
-https://prajwal.github.io/warSim/
+(https://yash5ingh.github.io/warSim/)
